@@ -1,0 +1,2 @@
+mistralai=="1.6.0"
+supabase=="2.15.0"
